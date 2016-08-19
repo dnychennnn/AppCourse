@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppCourse_HW8_4102056034</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hello_map">HelloMap</string>
+</resources>
