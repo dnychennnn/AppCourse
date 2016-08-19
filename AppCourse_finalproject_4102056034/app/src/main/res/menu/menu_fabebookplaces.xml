@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.jamesdouble.checkinspecture.fabebookplaces">
+    <item
+    android:id="@+id/action_help"
+    android:icon="@drawable/ic_help_white_24dp"
+    android:showAsAction="always"
+    android:title="about"/>
+
+</menu>
